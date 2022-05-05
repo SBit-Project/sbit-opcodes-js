@@ -1,6 +1,6 @@
 {
   "name": "sbit-opcodes",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Smart Bitcoin opcodes map",
   "main": "./index.json",
   "scripts": {
